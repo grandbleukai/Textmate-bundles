@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>import rhinoscriptsyntax as rs
+#Script written by Kai Nishimura
+
+</string>
+	<key>name</key>
+	<string>import</string>
+	<key>tabTrigger</key>
+	<string>i</string>
+	<key>uuid</key>
+	<string>3628A3C5-5CEE-4AB7-9997-EF5F22A2AA71</string>
+</dict>
+</plist>

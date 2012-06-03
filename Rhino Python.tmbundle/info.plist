@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Rhino Python</string>
+	<key>ordering</key>
+	<array>
+		<string>5D4C79A3-D96D-4412-AE6E-768665023737</string>
+		<string>4774F84A-5366-4583-9F16-9CF51EB01D28</string>
+		<string>3628A3C5-5CEE-4AB7-9997-EF5F22A2AA71</string>
+		<string>EB26FBCA-A5B5-4A18-ABFC-AFCCF760C941</string>
+	</array>
+	<key>uuid</key>
+	<string>9D07733F-1FEB-42C5-B59F-B2143C23D41A</string>
+</dict>
+</plist>
